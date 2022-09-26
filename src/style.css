@@ -1,4 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 body {
   display: inline-grid;
+  margin-top: 50vh;
+  margin-left: 60vh;
 }
